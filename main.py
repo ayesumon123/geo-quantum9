@@ -8,6 +8,7 @@ def hello():
 @myapp.route("/compose")
 def compose():
     return render_template("compose.html")
+
 if __name__ == "__main__":
     myapp.run(debug=True)
 
