@@ -12,4 +12,4 @@ python-dateutil==1.5
 requests==2.19.1
 tinypackage==1.0
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
